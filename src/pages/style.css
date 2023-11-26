@@ -1,0 +1,203 @@
+#hederfoter{
+    position: relative;
+    height: 100%;
+    font-family: "Sofia";
+}
+#opacity{
+    position: relative;
+    height: 60px;
+    /* width: 1024px; */
+    background-color: blue;
+    margin-top: 10px;
+    border-radius: 50px;
+    overflow: hidden;
+    opacity: 17%;
+}
+#navber{
+    position: relative;
+    height: 60px;
+    /* width: 1024px; */
+    /* background-color: rgb(255, 255, 255); */
+    top: -60px;
+    border-radius: 50px;
+    overflow: hidden;
+  
+}
+#nav{
+    position: absolute;
+    right: 0;
+    width: 50%;
+    height: 100%;
+    bottom: 5px;
+    /* overflow: auto; */
+    
+}
+#navItem0{
+    position: absolute;
+    margin: auto;
+    right: 410px;
+    font-size: 20px;
+    padding: 20px;
+    display: inline-flex;
+    color: rgb(0, 255, 13);
+    /* background-color: red; */
+    height: 100%;
+
+
+}
+#navItem1{
+    position: absolute;
+    margin: auto;
+    right: 300px;
+    font-size: 20px;
+    padding: 20px;
+    display: inline-flex;
+    color: rgb(0, 255, 13);
+    /* background-color: red; */
+    height: 100%;
+
+
+}
+#navItem2{
+    position: absolute;
+    margin: auto;
+    right: 140px;
+    font-size: 20px;
+    padding: 20px;
+    display: inline-flex;
+    color: rgb(0, 255, 13);
+    /* background-color: red; */
+    height: 100%;
+
+
+}
+
+#navItem3{
+    position: absolute;
+    margin: auto;
+    right: 20px;
+    font-size: 20px;
+    padding: 20px;
+    display: inline-flex;
+    color: rgb(0, 255, 13);
+    /* background-color: red; */
+    height: 100%;
+
+
+}
+#logo{
+    position: absolute;
+    margin-bottom: 10px;
+    left: 0;
+    width: 70px;
+    height: 100%;
+    background-color: brown;
+    border-radius: 50px;
+    padding: 20px;
+    color: rgb(0, 255, 13);
+}
+#foter{
+    
+    /* margin-bottom: 0 */
+    background-color: blue;
+    height: 200px;
+    opacity: 17%;
+}
+#location{
+    position: absolute;
+    margin-top: 10px;
+    bottom: 140px;
+    color: greenyellow;
+    margin-left: 20px;
+    font-size: 70px;
+    
+}
+
+
+/* this language style */
+ #language div{
+       
+        width: 100%;
+        height: 60px;
+        padding: 15px;
+        margin-top: 50px;
+        font-size: larger;
+        color: green;
+        background-color: greenyellow;
+        text-align: center;
+        border-radius: 50px;
+       
+ }
+
+
+ #language1 {
+    position: absolute;  
+    top: 60px;
+    width: 50%;
+    right: 0;
+    height: 60px;
+    padding: 15px;
+    margin-top: 50px;
+    font-size: larger;
+    /* background-color: greenyellow; */
+    text-align: center;
+    border-radius: 50px;
+ 
+    
+   
+}
+
+#language2 {
+    position: absolute;  
+    top: 169px;
+    width: 50%;
+    right: 0;
+    height: 60px;
+    padding: 15px;
+    margin-top: 50px;
+    font-size: larger;
+    /* background-color: greenyellow; */
+    text-align: center;
+    border-radius: 50px;
+   
+    
+   
+}
+
+
+#language3 {
+    position: absolute;  
+    right: 0;
+    top: 278px;
+    width: 50%;
+    height: 60px;
+    padding: 15px;
+    margin-top: 50px;
+    font-size: larger;
+    /* background-color: greenyellow; */
+    text-align: center;
+    border-radius: 50px;
+    
+   
+}
+
+#language4 {
+    position: absolute;  
+    top: 388px;
+    width: 50%;
+    right: 0;
+    height: 60px;
+    padding: 15px;
+    margin-top: 50px;
+    font-size: larger;
+    /* background-color: greenyellow; */
+    text-align: center;
+    border-radius: 50px;
+    
+    
+   
+}
+.COLOR{
+    color: gold;
+    font-family: "Sofia", sans-serif;
+}
