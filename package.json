@@ -2,7 +2,7 @@
   "name": "protfoli",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shekhmonjurul.github.io/protfoli/public/index.html", 
+  "homepage": "https://shekhmonjurul.github.io/protfoli/src/index.js", 
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
